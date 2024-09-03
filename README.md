@@ -9,8 +9,6 @@ Este sistema visa facilitar o entendimento sobre temas relacionados à doação 
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação e Configuração](#instalação-e-configuração)
-- [Como Usar](#como-usar)
 - [Contato](#contato)
 
 ## Descrição do Projeto
@@ -37,49 +35,11 @@ Principais funcionalidades do projeto:
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Linguagem de Programação](https://link_para_documentacao): Exemplo: Python, JavaScript, etc.
-- [Framework/Biblioteca](https://link_para_documentacao): Exemplo: Django, React, etc.
-- [Banco de Dados](https://link_para_documentacao): Exemplo: PostgreSQL, MongoDB, etc.
-- [Ferramenta de Testes](https://link_para_documentacao): Exemplo: PyTest, JUnit, etc.
-- [Outras tecnologias](https://link_para_documentacao): Exemplo: Docker, CI/CD, etc.
-
-## Instalação e Configuração
-
-Para rodar o projeto localmente, siga os passos abaixo:
-
-1. Clone este repositório:
-    ```bash
-    git clone https://github.com/usuario/nome-do-projeto.git
-    ```
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd nome-do-projeto
-    ```
-3. Instale as dependências:
-    ```bash
-    # Se for um projeto em Python
-    pip install -r requirements.txt
-    ```
-    ```bash
-    # Se for um projeto em JavaScript
-    npm install
-    ```
-4. Configure as variáveis de ambiente:
-
-    Crie um arquivo `.env` e configure as variáveis necessárias:
-    ```bash
-    cp .env.example .env
-    ```
-    Atualize as variáveis conforme necessário.
-
-5. Execute o projeto:
-    ```bash
-    # Comando para iniciar o projeto
-    ```
-
-## Como Usar
-
-Explique como o projeto pode ser utilizado, incluindo exemplos de comandos, descrições de endpoints da API, ou passos para realizar operações dentro da aplicação.
+- **Linguagens de Programação:** Python, HTML, CSS, JavaScript, etc.
+- **Framework/Biblioteca:** Bootstrap, SQLite, etc.
+- **Banco de Dados:** SQLite, etc.
+- **Ferramentas:** BrModelo, Creately, Remove.bg, etc.
+- **Outras tecnologias:** GitHub, Visual Studio Code, XAMPP, etc.
 
 ## Contato
 

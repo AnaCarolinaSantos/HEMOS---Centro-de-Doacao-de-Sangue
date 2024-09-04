@@ -1,6 +1,6 @@
 # HEMOS - Centro de Doação de Sangue
 
-![Badge de Status](https://img.shields.io/badge/status-done-green)
+![Badge de Status](https://img.shields.io/badge/status-Done-green)
 
 Este sistema visa facilitar o entendimento sobre temas relacionados à doação de sangue, agilizar os agendamentos e cadastros, e garantir um processo mais seguro e organizado, alinhado às necessidades impostas pelo distanciamento social.
 
